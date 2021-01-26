@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<button>This is a test</button>
+		<button>This is not a test</button>
 	</div>
 </template>
 
